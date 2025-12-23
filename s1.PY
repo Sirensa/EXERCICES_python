@@ -183,7 +183,7 @@ while argent >0:
 
 #EX6
 
-
+"""
 total_blocks = int(input("Entrer le nombre de blocs: "))
 somme = 0
 height = 0
@@ -195,3 +195,5 @@ for i in range(1, total_blocks + 1):
     height = i
 
 print("La hauteur maximale de la pyramide est :", height)
+"""
+
